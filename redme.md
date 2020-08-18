@@ -1,4 +1,4 @@
-
+Do step by step
 cd /var/www/html
 yum install git 
 git clone link...
